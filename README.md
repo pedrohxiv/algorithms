@@ -2,7 +2,7 @@
 
 Neste projeto, tive a oportunidade de desenvolver e aprimorar minhas habilidades em lógica de programação, interpretação de problemas, otimização de algoritmos e resolução de desafios. São cinco requisitos que abordam diferentes problemas, desde busca e criptografia até manipulação de strings e identificação de números repetidos em um array. Escolhei a linguagem de programação `Python` para implementar as soluções para atender aos requisitos específicos de cada problema. É uma oportunidade de praticar minhas habilidades de programação sob pressão e aprimorar minha capacidade de resolver problemas do dia a dia de forma eficaz.
 
-### O que foi desenvolvido
+## O que foi desenvolvido
 
 Neste projeto, foram desenvolvidos cinco requisitos relacionados à resolução de problemas e otimização de algoritmos. Cada requisito abordou um problema diferente e exigiu a implementação de algoritmos ou testes específicos. Aqui está um resumo de cada um dos requisitos:
 
@@ -22,7 +22,7 @@ Neste projeto, foram desenvolvidos cinco requisitos relacionados à resolução 
 
 Este projeto é uma aplicação Python, basta clonar o repositório, acessar a pasta do projeto e executar o arquivo selecionado.
 
-### Tecnologias Utilizadas:
+## Tecnologias Utilizadas:
 
 - Python
 
